@@ -26,7 +26,8 @@ This project analyzes customer shopping behavior using Excel, SQL, Python, and P
 
 ## Project Screenshot
 
-![Dashboard Screenshot](screenshot.png)
+<img width="1167" height="654" alt="Screenshot 2026-07-03 195607" src="https://github.com/user-attachments/assets/603fd7bc-9806-4a7d-9491-80bf75be4a42" />
+
 
 ## Author
 Aditya Raut 
