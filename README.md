@@ -26,7 +26,7 @@ This project analyzes customer shopping behavior using Excel, SQL, Python, and P
 
 ## Project Screenshot
 
-<img width="1167" height="654" alt="Screenshot 2026-07-03 195607" src="https://github.com/user-attachments/assets/603fd7bc-9806-4a7d-9491-80bf75be4a42" />
+<img width="1139" height="633" alt="Screenshot 2026-07-11 194153" src="https://github.com/user-attachments/assets/4f51e065-4576-4bba-be34-04fa5d39d6b0" />
 
 
 ## Author
